@@ -17,7 +17,7 @@ repo: [termux](http://termux.net)       [grimler](https://grimler.se/termux/)
 4. chmod 777 -R *
 5. move all files to $PREFIX/etc/apt
 6. pkg update -y
-7. Choose The N!!!
+7. Choose The N!!!  
 8.restart termux
 
 
