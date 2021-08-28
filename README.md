@@ -24,7 +24,7 @@ repo: [termux](http://termux.net)   [grimler](https://grimler.se/termux/)
 
 ### Common Problem:
 
-#### Can't connect to github： Use mirror:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
+#### Can't connect to github?  Use mirror:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
 
 
 
