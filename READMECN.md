@@ -3,7 +3,7 @@
 
 [![GitHub license](https://img.shields.io/badge/开源协议-MIT-brightgreen)](https://github.com/2096779623/termux-android5-repo/blob/main/LICENSE) 
 
-EN：[README.md](https://github.com/2096779623/termux-android5-repo/blob/master/README.md)
+English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/master/README.md)
 
 
 
