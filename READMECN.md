@@ -11,9 +11,19 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 
 
 ## 用法：
-1. git clone https://github.com/2096779623/termux-android5-repo.git
-2. cd termux-android5-repo
-3. chmod 777 -R *
-4. 移动目录下的所有文件到$PREFIX/etc/apt
-5. pkg update -y
-6. 选N！！！
+1. pkg install git -y
+2. git clone https://github.com/2096779623/termux-android5-repo.git
+3. cd termux-android5-repo
+4. chmod 777 -R *
+5. 移动目录下的所有文件到$PREFIX/etc/apt
+6. pkg update -y
+7. 选N！！！
+8.重启termux
+
+
+### 常见问题:
+
+#### 不能连接到github： Use mirror:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
+
+
+
