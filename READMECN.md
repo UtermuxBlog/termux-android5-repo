@@ -23,7 +23,7 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 
 ### 常见问题:
 
-#### 不能连接到github： Use mirror:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
+#### 不能连接到github？ 使用镜像站:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
 
 
 
