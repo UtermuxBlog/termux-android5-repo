@@ -18,7 +18,7 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 5. 移动目录下的所有文件到$PREFIX/etc/apt
 6. pkg update -y
 7. 选N！！！
-8.重启termux
+8. 重启termux
 
 
 ### 常见问题:
