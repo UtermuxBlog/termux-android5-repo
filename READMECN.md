@@ -1,5 +1,5 @@
 # termux-安卓5-源
-## 安卓6以下termux可用国外源
+## 安卓5 termux可用国外源
 
 [![GitHub license](https://img.shields.io/badge/开源协议-MIT-brightgreen)](https://github.com/2096779623/termux-android5-repo/blob/main/LICENSE) 
 
@@ -16,8 +16,7 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 3. cd termux-android5-repo
 4. chmod 777 -R *
 5. 移动目录下的所有文件到$PREFIX/etc/apt
-6. pkg update -y
-7. 选N！！！
+6. pkg update -n
 8. 重启termux
 
 
