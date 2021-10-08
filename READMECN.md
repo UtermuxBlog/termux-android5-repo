@@ -7,7 +7,7 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 
 
 
-源: [termux](http://termux.net)   [grimler](https://grimler.se/termux/)
+源: [termux](http://termux.net)   [grimler](https://grimler.se/termux/)       [Termux官方提供的21版本源](https://github.com/termux?q=21&type=&language=&sort=)
 
 
 ## 用法：
