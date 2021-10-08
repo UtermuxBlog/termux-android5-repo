@@ -1,1 +1,1 @@
-deb https://grimler.se/x11-packages/ x11 stable 
+	deb https://packages.termux.org/apt/termux-x11/ x11 main
