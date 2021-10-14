@@ -20,6 +20,8 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 8. 重启termux
 
 
+如果你的手机没有root，请执行这个命令:
+rm $PREFIX/etc/apt/sources.list.d/root.list
 ### 常见问题:
 
 #### 不能连接到github？ 使用镜像站:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
