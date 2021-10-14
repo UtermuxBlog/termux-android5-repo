@@ -1,5 +1,5 @@
 # termux-安卓5-源
-## 安卓5 termux可用国外源
+## 安卓5~6 termux可用国外源
 
 [![GitHub license](https://img.shields.io/badge/开源协议-MIT-brightgreen)](https://github.com/2096779623/termux-android5-repo/blob/main/LICENSE) 
 
