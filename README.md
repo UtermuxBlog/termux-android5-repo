@@ -19,7 +19,8 @@ repo: [termux](http://termux.net)       [grimler](https://grimler.se/termux/)   
 6. pkg update -n
 
 
-
+if your's mobile phone no rooted,please exec this order:
+rm $PREFIX/etc/apt/sources.list.d/root.list
 
 ### Common Problem:
 
