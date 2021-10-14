@@ -1,5 +1,5 @@
 # termux-android5-repo
-## Foreign mirror sources on Android 5 for termux
+## Foreign sources mirrors of Android 5~6 for termux
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/2096779623/termux-android5-repo/blob/main/LICENSE) 
 
