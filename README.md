@@ -11,12 +11,21 @@ repo: [termux](http://termux.net)       [grimler](https://grimler.se/termux/)   
 
 
 ## Usege:
-1. pkg install git -y
-2. git clone https://github.com/2096779623/termux-android5-repo.git
-3. cd termux-android5-repo
-4. chmod 777 -R *
-5. move all files to $PREFIX/etc/apt
-6. pkg update -n
+
+1.rm $PREFIX/etc/apt/sources.list.d/*
+2. pkg install git -y
+3. git clone https://github.com/2096779623/termux-android5-repo.git
+4. cd termux-android5-repo
+5. chmod 777 -R *
+6. move all files to $PREFIX/etc/apt
+7. pkg update -n
+
+##Simple installation
+1.rm $PREFIX/etc/apt/sources.list.d/*
+2.pkg install wget -y
+3.wget -q https://raw.fastgit.org.org/2096779623/termux-android5-repo/main/install.sh
+4.chmod 777 install.sh && ./install.sh
+
 
 
 if your's mobile phone no rooted,please exec this order:
