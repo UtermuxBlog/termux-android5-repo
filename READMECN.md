@@ -21,10 +21,20 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 
 
 ##简单安装
+
+
 1.rm $PREFIX/etc/apt/sources.list.d/*
+
+
 2.pkg install wget -y
+
+
 3.wget -q https://raw.fastgit.org.org/2096779623/termux-android5-repo/main/install.sh
+
+
 4.chmod 777 install.sh && ./install.sh
+
+
 如果你的手机没有root，请执行这个命令:
 rm $PREFIX/etc/apt/sources.list.d/root.list
 ### 常见问题:
