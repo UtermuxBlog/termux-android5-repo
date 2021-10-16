@@ -18,6 +18,8 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 5. 移动目录下的所有文件到$PREFIX/etc/apt
 6. pkg update -n
 8. 重启termux
+
+
 ##简单安装
 1.rm $PREFIX/etc/apt/sources.list.d/*
 2.pkg install wget -y
