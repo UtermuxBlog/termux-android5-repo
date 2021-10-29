@@ -41,5 +41,6 @@ rm $PREFIX/etc/apt/sources.list.d/root.list
 
 #### 不能连接到github？ 使用镜像站:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
 
+博客链接:https://utermux.fblog.ml/ut/changerepo.html#title-11
 
 
