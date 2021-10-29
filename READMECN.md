@@ -1,6 +1,6 @@
 # termux-安卓5-源
 ## 安卓5~6 termux可用国外源
-
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F2096779623%2Ftermux-android5-repo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F2096779623%2Ftermux-android5-repo?ref=badge_large)
 [![GitHub license](https://img.shields.io/badge/开源协议-MIT-brightgreen)](https://github.com/2096779623/termux-android5-repo/blob/main/LICENSE) 
 
 English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/master/README.md)
