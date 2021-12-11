@@ -7,7 +7,7 @@ Chinese：[READMECN.md](https://github.com/2096779623/termux-android5-repo/blob/
 
 
 
-repo: [termux](http://termux.net)       [grimler](https://grimler.se/termux/)        [Termux Repo For 21 Version](https://github.com/termux?q=21&type=&language=&sort=)
+repo: [termux](http://termux.net)       [grimler](https://grimler.se/termux/)        [Termux Repo For Version 21](https://github.com/termux?q=21&type=&language=&sort=)
 
 
 ## Usege:
