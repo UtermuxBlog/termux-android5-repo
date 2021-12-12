@@ -3,6 +3,11 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F2096779623%2Ftermux-android5-repo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F2096779623%2Ftermux-android5-repo?ref=badge_large)
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)](https://github.com/2096779623/termux-android5-repo/blob/main/LICENSE) 
 
+
+[blog](https://blog.utermux.eu.org/ut/repoandroid5.html)
+
+
+
 Chinese：[READMECN.md](https://github.com/2096779623/termux-android5-repo/blob/master/READMECN.md)
 
 
