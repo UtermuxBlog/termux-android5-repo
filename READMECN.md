@@ -29,7 +29,7 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 2.pkg install wget -y
 
 
-3.wget -q https://raw.fastgit.org.org/2096779623/termux-android5-repo/main/install.sh
+3.wget -q https://raw.fastgit.org/2096779623/termux-android5-repo/main/install.sh
 或者使用jsdelivr：wget -q https://cdn.jsdelivr.net/gh/2096779623/termux-android5-repo@1.0/install.sh
 
 
