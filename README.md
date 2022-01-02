@@ -28,7 +28,7 @@ repo: [termux](http://termux.net)       [grimler](https://grimler.se/termux/)   
 ##Simple installation
 1.rm $PREFIX/etc/apt/sources.list.d/*
 2.pkg install wget -y
-3.wget -q https://raw.fastgit.org.org/2096779623/termux-android5-repo/main/install.sh
+3.wget -q https://raw.fastgit.org/2096779623/termux-android5-repo/main/install.sh
 4.chmod 777 install.sh && ./install.sh
 
 
