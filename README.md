@@ -18,7 +18,7 @@ Chinese：[READMECN.md](https://github.com/2096779623/termux-android5-repo/blob/
 repo: [Termux Packages](https://termux.com)     [grimler](https://grimler.se/termux/)        [Termux Repo For Version 21](https://github.com/termux?q=21&type=&language=&sort=)
 
 
-## Usege:
+## Installation
 ```bash
 rm $PREFIX/etc/apt/sources.list.d/*
 pkg i git -y
@@ -31,7 +31,7 @@ No Run Pkg Update!
 You can use `pkg i [Packages Name]` Install packages,but not install about termux container packages!
 **eg: command-not-found,busybox,coreutil**
 
-##Simple installation
+## Simple installation
 ```bash
 rm $PREFIX/etc/apt/sources.list.d/*
 pkg install wget -y
