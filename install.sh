@@ -2,7 +2,7 @@
 #By 2096779623
 rm $PREFIX/etc/apt/sources.list.d/*&>/dev/null 2>&1
 echo 安装git...
-pkg install git -y &>/dev/null
+pkg i git -y
 if [ ! -d "/data/" ];then
 	  echo 正在从fastgit.org下载源... && git clone https://hub.fastgit.org/2096779623/termux-android5-repo &>/dev/null && cd termux-android5-repo 
 	    else
