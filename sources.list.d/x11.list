@@ -1,1 +1,1 @@
-	deb https://packages.termux.org/apt/termux-x11/ x11 main
+deb https://packages.termux.org/apt/termux-x11/ x11 main
