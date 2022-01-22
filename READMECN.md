@@ -11,37 +11,44 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 
 
 ## 用法：
-1. pkg install git -y
-2. git clone https://github.com/2096779623/termux-android5-repo.git
-3. cd termux-android5-repo
-4. chmod 777 -R *
-5. 移动目录下的所有文件到$PREFIX/etc/apt
-6. pkg update -n
-8. 重启termux
+```bash
+pkg install git -y
+git clone https://github.com/2096779623/termux-android5-repo.git
+cd termux-android5-repo
+chmod 777 -R *
+移动目录下的所有文件到$PREFIX/etc/apt
+重启termux
+```
 
 
 ##简单安装
 
-
-1.rm $PREFIX/etc/apt/sources.list.d/*
-
-
-2.pkg install wget -y
+```bash
+rm $PREFIX/etc/apt/sources.list.d/*
 
 
-3.wget -q https://raw.fastgit.org/2096779623/termux-android5-repo/main/install.sh
+pkg install wget -y
+
+
+wget -q https://raw.fastgit.org/2096779623/termux-android5-repo/main/install.sh
 或者使用jsdelivr：wget -q https://cdn.jsdelivr.net/gh/2096779623/termux-android5-repo@1.0/install.sh
 
+chmod 777 install.sh && ./install.sh
 
-4.chmod 777 install.sh && ./install.sh
+```
 
 
-如果你的手机没有root，请执行这个命令:
-rm $PREFIX/etc/apt/sources.list.d/root.list
+不要运行Pkg Update!
+你可以使用 `pkg i [软件包名称]` 安装软件包,但是不要安装关于Termux容器环境的包!
+**比如: command-not-found,busybox,coreutil**
+
+
+如果你的手机没有root，请执行这个命令删除root源:
+`rm $PREFIX/etc/apt/sources.list.d/root.list`
 ### 常见问题:
 
 #### 不能连接到github？ 使用镜像站:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
 
-博客链接:https://utermux.fblog.ml/ut/changerepo.html#title-11
+博客链接:https://blog.utermux.eu.org/ut/repoandroid5.html
 
 
