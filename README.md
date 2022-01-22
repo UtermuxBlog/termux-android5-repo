@@ -16,24 +16,28 @@ repo: [Termux Packages](https://termux.com)     [grimler](https://grimler.se/ter
 
 
 ## Usege:
-
-1.rm $PREFIX/etc/apt/sources.list.d/*
-2. pkg install git -y
-3. git clone https://github.com/2096779623/termux-android5-repo.git
-4. cd termux-android5-repo
-5. chmod 777 -R *
-6. move all files to $PREFIX/etc/apt
-7. pkg update -n
+```bash
+rm $PREFIX/etc/apt/sources.list.d/*
+pkg i git -y
+git clone https://github.com/2096779623/termux-android5-repo.git
+cd termux-android5-repo
+chmod 777 -R *
+cp -r * $PREFIX/etc/apt
+```
+No Run Pkg Update!
+You can use `pkg i [Packages Name]` Install packages,but not install about termux container packages!
+**eg: command-not-found,busybox,coreutil**
 
 ##Simple installation
-1.rm $PREFIX/etc/apt/sources.list.d/*
-2.pkg install wget -y
-3.wget -q https://raw.fastgit.org/2096779623/termux-android5-repo/main/install.sh
-4.chmod 777 install.sh && ./install.sh
+```bash
+rm $PREFIX/etc/apt/sources.list.d/*
+pkg install wget -y
+wget -q https://raw.fastgit.org/2096779623/termux-android5-repo/main/install.sh
+chmod 777 install.sh && ./install.sh
+```
 
 
-
-if your's mobile phone no rooted,please exec this order:
+if your's mobile phone no rooted,please exec this order delete the root repo:
 rm $PREFIX/etc/apt/sources.list.d/root.list
 
 ### Common Problem:
