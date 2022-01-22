@@ -49,6 +49,6 @@ chmod 777 install.sh && ./install.sh
 
 #### 不能连接到github？ 使用镜像站:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
 
-博客链接:https://blog.utermux.eu.org/ut/repoandroid5.html
+[博客链接](https://blog.utermux.eu.org/ut/repoandroid5.html)
 
 
