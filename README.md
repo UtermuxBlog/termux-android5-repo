@@ -7,7 +7,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F2096779623%2Ftermux-android5-repo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F2096779623%2Ftermux-android5-repo?ref=badge_shield)
 
 
-[blog](https://blog.utermux.eu.org/ut/repoandroid5.html)
+[blog](https://blog.utermux.dev/ut/repoandroid5.html)
 
 
 
