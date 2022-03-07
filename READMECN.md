@@ -12,12 +12,12 @@ English：[README.md](https://github.com/2096779623/termux-android5-repo/blob/ma
 
 ## 用法：
 ```bash
-pkg install git -y
+rm $PREFIX/etc/apt/sources.list.d/*
+pkg i git -y
 git clone https://github.com/2096779623/termux-android5-repo.git
 cd termux-android5-repo
 chmod 777 -R *
-移动目录下的所有文件到$PREFIX/etc/apt
-重启termux
+cp -r * $PREFIX/etc/apt
 ```
 
 
@@ -31,7 +31,7 @@ pkg install wget -y
 
 
 wget -q https://raw.fastgit.org/2096779623/termux-android5-repo/main/install.sh
-或者使用jsdelivr：wget -q https://cdn.jsdelivr.net/gh/2096779623/termux-android5-repo@1.0/install.sh
+或者使用jsdelivr：wget -q https://cdn.jsdelivr.net/gh/2096779623/termux-android5-repo@main/install.sh
 
 chmod 777 install.sh && ./install.sh
 
