@@ -35,7 +35,7 @@ You can use `pkg i [Packages Name]` Install packages,but not install about termu
 ```bash
 rm $PREFIX/etc/apt/sources.list.d/*
 pkg install wget -y
-wget -q https://raw.fastgit.org/2096779623/termux-android5-repo/main/install.sh
+wget -q https://raw.githubusercontent.com/2096779623/termux-android5-repo/main/install.sh
 chmod 777 install.sh && ./install.sh
 ```
 
