@@ -49,6 +49,9 @@ chmod 777 install.sh && ./install.sh
 
 #### 不能连接到github？ 使用镜像站:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
 
+W: Failed to fetch xxx The following signatures couldn't be verified because the public key is not available: NO_PUBKEY xxx：
+https://blog.utermux.dev/ut/gpgkeyfix.html
+
 [博客链接](https://blog.utermux.dev/ut/repoandroid5.html)
 
 
