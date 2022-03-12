@@ -1,7 +1,7 @@
 #/data/data/com.termux/files/usr/bin/bash
 #By 2096779623
 rm $PREFIX/etc/apt/sources.list.d/* &>/dev/null 2>&1
-echo deb https://grimler.se/apt/termux-main stable main > $PREFIX/etc/apt/sources.list
+echo deb https://packages.termux.org/apt/termux-main stable main > $PREFIX/etc/apt/sources.list
 echo deb https://termux.com/game-packages-21-bin games stable > $PREFIX/etc/apt/sources.list.d/game.list
 echo deb https://termux.com/science-packages-21-bin science stable > $PREFIX/etc/apt/sources.list.d/science.list
 echo deb https://grimler.se/unstable-packages/ unstable main > $PREFIX/etc/apt/sources.list.d/unstable.list
