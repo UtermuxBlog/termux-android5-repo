@@ -45,7 +45,7 @@ rm $PREFIX/etc/apt/sources.list.d/root.list
 
 ### Common Problem:
 
-#### Can't connect to github?  Use mirror:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
+#### Can't connect to github?  Use mirror:[fastgithub](https://github.fastgithub.tk)  [fastgit](https://hub.fastgit.org)
 
 **NO_PUBILCKEY?**   try:`apt-key adv --keyserver keys.gnupg.net --recv-keys ErrorKey` or Manual download key.
 
