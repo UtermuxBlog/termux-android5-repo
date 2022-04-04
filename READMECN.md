@@ -47,7 +47,7 @@ chmod 777 install.sh && ./install.sh
 `rm $PREFIX/etc/apt/sources.list.d/root.list`
 ### 常见问题:
 
-#### 不能连接到github？ 使用镜像站:[my mirror](https://github.2096779623.workers.dev)  [fastgit](https://hub.fastgit.org)
+#### 不能连接到github？ 使用镜像站:[fastgithub](https://github.fastgithub.tk)  [fastgit](https://hub.fastgit.org)
 
 W: Failed to fetch xxx The following signatures couldn't be verified because the public key is not available: NO_PUBKEY xxx：
 https://blog.utermux.dev/ut/gpgkeyfix.html
